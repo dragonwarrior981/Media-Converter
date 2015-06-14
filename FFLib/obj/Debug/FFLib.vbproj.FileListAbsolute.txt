@@ -1,0 +1,6 @@
+D:\Windows Forms\Media Converter\FFLib\bin\Debug\FFLib.dll
+D:\Windows Forms\Media Converter\FFLib\bin\Debug\FFLib.pdb
+D:\Windows Forms\Media Converter\FFLib\obj\Debug\FFLib.Resources.resources
+D:\Windows Forms\Media Converter\FFLib\obj\Debug\FFLib.vbproj.GenerateResource.Cache
+D:\Windows Forms\Media Converter\FFLib\obj\Debug\FFLib.dll
+D:\Windows Forms\Media Converter\FFLib\obj\Debug\FFLib.pdb

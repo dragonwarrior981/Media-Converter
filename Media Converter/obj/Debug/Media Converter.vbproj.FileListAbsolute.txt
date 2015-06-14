@@ -1,0 +1,20 @@
+D:\Windows Forms\Media Converter\Media Converter\bin\Debug\Media Converter.exe.config
+D:\Windows Forms\Media Converter\Media Converter\bin\Debug\Media Converter.exe.manifest
+D:\Windows Forms\Media Converter\Media Converter\bin\Debug\Media Converter.application
+D:\Windows Forms\Media Converter\Media Converter\bin\Debug\Media Converter.exe
+D:\Windows Forms\Media Converter\Media Converter\bin\Debug\Media Converter.pdb
+D:\Windows Forms\Media Converter\Media Converter\bin\Debug\FFLib.dll
+D:\Windows Forms\Media Converter\Media Converter\bin\Debug\FFLib.pdb
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media Converter.vbprojResolveAssemblyReference.cache
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media_Converter.AboutBox.resources
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media_Converter.FileExists.resources
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media_Converter.FileViewer.resources
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media_Converter.Main.resources
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media_Converter.Resources.resources
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media_Converter.ProcessDialog.resources
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media_Converter.Settings.resources
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media Converter.vbproj.GenerateResource.Cache
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media Converter.exe.manifest
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media Converter.application
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media Converter.exe
+D:\Windows Forms\Media Converter\Media Converter\obj\Debug\Media Converter.pdb

@@ -1,0 +1,4 @@
+D:\Windows Forms\Media Converter\CustomProgressBar\obj\Release\CustomProgressBar.Resources.resources
+D:\Windows Forms\Media Converter\CustomProgressBar\obj\Release\CustomProgressBar.vbproj.GenerateResource.Cache
+D:\Windows Forms\Media Converter\CustomProgressBar\bin\Release\CustomProgressBar.dll
+D:\Windows Forms\Media Converter\CustomProgressBar\obj\Release\CustomProgressBar.dll
